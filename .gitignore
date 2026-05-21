@@ -1,0 +1,11 @@
+# 排除原始 PNG（已轉為 WebP）
+*.png
+
+# 排除備份檔與內部文件
+*_backup_*.html
+*_交接文件.md
+å½éçç.html
+
+# 系統檔
+.DS_Store
+Thumbs.db
